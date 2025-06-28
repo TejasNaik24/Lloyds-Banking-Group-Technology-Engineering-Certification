@@ -42,7 +42,6 @@ mortgage-calculator/
 - **TypeScript**
 - **CSS (custom)**
 - **Excel to JS sample integration**
-- Optional: Deployed via **Azure Static Web Apps** or **Vercel**
 
 ---
 
